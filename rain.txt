@@ -93,15 +93,13 @@ family:Cursive;font-size:14pt;color:#ffcc00;height:12px;" scrollamount="7"
 
 direction="down">💧💧</marquee>
 
-<marquee style="z-index:2;position:absolute;left:89px;top:54px;font-
-family:Cursive;font-size:14pt;color:#ffcc00;height:366px;" scrollamount="2"
+<marquee style="z-index:2;position:absolute;left:95px;top:54px;font-size:20pt;color:#ffcc00;height:366px;" scrollamount="5"
 
-direction="down">💧💧</marquee>
+direction="down">💧 💧</marquee>
 
-<marquee style="z-index:2;position:absolute;left:26px;top:72px;font-
-family:Cursive;font-size:14pt;color:#ffcc00;height:358px;" scrollamount="1"
+<marquee style="z-index:2;position:absolute;left:26px;top:72px;font-size:14pt;color:#ffcc00;height:358px;" scrollamount="10"
 
-direction="down">💧💧</marquee>
+direction="down">💧 💧</marquee>
 
 <marquee style="z-index:2;position:absolute;left:3px;top:44px;font-
 family:Cursive;font-size:14pt;color:#ffcc00;height:130px;" scrollamount="3"
@@ -113,8 +111,7 @@ family:Cursive;font-size:14pt;color:#ffcc00;height:375px;" scrollamount="7"
 
 direction="down">💧💧</marquee>
 
-<marquee style="z-index:2;position:absolute;left:335px;top:76px;font-
-family:Cursive;font-size:14pt;color:#ffcc00;height:125px;" scrollamount="7"
+<marquee style="z-index:2;position:absolute;left:345px;top:76px;;font-size:14pt;color:#ffcc00;height:125px;" scrollamount="7"
 
 direction="down">💧💧💧</marquee>
 
