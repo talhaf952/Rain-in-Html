@@ -134,5 +134,5 @@ direction="down">💧</marquee>
 <marquee style="z-index:2;position:absolute;left:380px;top:44px;font-
 family:Cursive;font-size:14pt;color:#ffcc00;height:375px;" scrollamount="3"
 
-direction="down">💧</marquee>
+direction="down">💧 💧</marquee>
 </body>
