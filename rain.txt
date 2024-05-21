@@ -84,9 +84,8 @@ direction="down">💧 💧</marquee>
 <marquee style="z-index:2;position:absolute;left:26px;top:72px;font-size:14pt;color:#ffcc00;height:358px;" scrollamount="10"
 
 direction="down">💧 💧</marquee>
-<marquee style="z-index:2;position:absolute;left:3px;top:44px;font-
-family:Cursive;font-size:14pt;color:#ffcc00;height:130px;" scrollamount="3"
-direction="down">💧💧</marquee>
+<marquee style="z-index:2;position:absolute;left:3px;top:44px:font-size:14pt;color:#ffcc00;height:130px;" scrollamount="3"
+direction="down">💧💧hhhh</marquee>
 
 <marquee style="z-index:2;position:absolute;left:300px;top:108px;font-
 family:Cursive;font-size:14pt;color:#ffcc00;height:375px;" scrollamount="6"
@@ -104,7 +103,7 @@ family:Cursive;font-size:14pt;color:#ffcc00;height:366px;" scrollamount="2"
 direction="down">💧</marquee>
 
 <marquee style="z-index:2;position:absolute;left:355px;top:72px;font-
-family:Cursive;font-size:14pt;color:#ffcc00;height:358px;" scrollamount="1"
+family:Cursive;font-size:14pt;color:#ffcc00;height:358px;" scrollamount="2"
 direction="down">💧</marquee>
 
   
