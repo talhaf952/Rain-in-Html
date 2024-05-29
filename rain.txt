@@ -1,8 +1,6 @@
 <html>
 <head>
-<title>
-Rain in HTML
-</title>
+<title>Rain in HTML</title>
 </head>
 <body>
 
