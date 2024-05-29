@@ -26,7 +26,7 @@ direction="down">💧 💧</marquee>
 
 <marquee style="z-index:2;position:absolute;left:168px;top:69px;font-
 family:Cursive;font-size:14pt;color:#ffcc00;height:369px;" scrollamount="1"
-direction="down">💧💧💧💧</marquee>
+direction="down">💧💧💧</marquee>
 
 <marquee style="z-index:2;position:absolute;left:130px;top:117px;font-
 family:Cursive;font-size:14pt;color:#ffcc00;height:289px;" scrollamount="7"
