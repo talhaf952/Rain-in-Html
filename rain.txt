@@ -3,7 +3,6 @@
 <head>
     <title>Rain in HTML</title>
 </head>
-
 <body>
 
     <marquee style="z-index:2;position:absolute;left:18px;top:20px;font-
