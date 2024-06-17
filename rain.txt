@@ -12,7 +12,16 @@ family:Cursive;font-size:14pt;color:#ffcc00;height:200px;" scrollamount="3" dire
     <marquee style="z-index:2;position:absolute;left:38px;top:26px;font-
 family:Cursive;font-size:14pt;color:#ffcc00;height:200px;" scrollamount="5" direction="down">💧</marquee>
   
-      <marquee style="z-index:2;position:absolute;left:48px;top:20px;font-
-family:Cursive;font-size:14pt;color:#ffcc00;height:200px;" scrollamount="3" direction="down">💧</marquee>
+      <marquee style="z-index:2;position:absolute;left:px;top:20px;font-
+family:Cursive;font-size:14pt;color:#ffcc00;height:200px;" scrollamount="4" direction="down">💧</marquee>
+  
+      <marquee style="z-index:2;position:absolute;left:18px;top:20px;font-
+family:Cursive;font-size:14pt;color:#ffcc00;height:200px;" scrollamount="4" direction="down">💧</marquee>
+
+    <marquee style="z-index:2;position:absolute;left:68px;top:26px;font-
+family:Cursive;font-size:14pt;color:#ffcc00;height:200px;" scrollamount="5" direction="down">💧</marquee>
+  
+      <marquee style="z-index:2;position:absolute;left:58px;top:20px;font-
+family:Cursive;font-size:14pt;color:#ffcc00;height:200px;" scrollamount="3" direction="down"> 💧 💧</marquee>
 
 </body>
