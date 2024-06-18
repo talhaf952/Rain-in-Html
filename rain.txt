@@ -1,6 +1,12 @@
 <html>
 <head>
     <title>Rain in HTML</title>
+  <style>
+p {
+  background-color: lightblue;
+    height:40px;
+}
+</style>
 </head>
 <body>
 
@@ -76,4 +82,7 @@
   
   <marquee style="position:absolute;left:586px;top:20px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="4" direction="down">💧</marquee>
   
-</body>
+  <p></p>
+  
+  
+</body>  
