@@ -1,12 +1,13 @@
 <html>
 <head>
     <title>Rain in HTML</title>
-  <style>
-p {
-  background-color: lightblue;
-    height:40px;
-}
-</style>
+    <style>
+        .bottom {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
 </head>
 <body>
 
@@ -82,7 +83,7 @@ p {
   
   <marquee style="position:absolute;left:586px;top:20px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="4" direction="down">💧</marquee>
   
-  <p></p>
-  
+  <p style="background-color: lightblue; height:40px;"></p>
+    <p class="bottom" style="background-color: lightgreen; height:80px;"></p>
   
 </body>  
