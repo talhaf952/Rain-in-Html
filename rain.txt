@@ -31,19 +31,19 @@
 
   <marquee style="position:absolute;left:458px;top:50px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="10" direction="down">💧</marquee>
   
-  <marquee style="position:absolute;left:508px;top:20px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="10" direction="down">💧</marquee>
+  <marquee style="position:absolute;left:508px;top:50px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="10" direction="down">💧</marquee>
   
-  <marquee style="position:absolute;left:558px;top:20px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="10" direction="down">💧</marquee>
+  <marquee style="position:absolute;left:558px;top:50px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="10" direction="down">💧</marquee>
   
-      <marquee style="position:absolute;left:36px;top:20px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="5" direction="down">💧</marquee>
+      <marquee style="position:absolute;left:36px;top:50px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="5" direction="down">💧</marquee>
 
-  <marquee style="position:absolute;left:86px;top:20px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="7" direction="down">💧</marquee>
+  <marquee style="position:absolute;left:86px;top:50px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="7" direction="down">💧</marquee>
   
-  <marquee style="position:absolute;left:136px;top:20px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="5" direction="down">💧</marquee>
+  <marquee style="position:absolute;left:136px;top:50px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="5" direction="down">💧</marquee>
   
-  <marquee style="position:absolute;left:186px;top:20px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="7" direction="down">💧</marquee>
+  <marquee style="position:absolute;left:186px;top:50px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="7" direction="down">💧</marquee>
   
-      <marquee style="position:absolute;left:236px;top:20px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="5" direction="down">💧</marquee>
+      <marquee style="position:absolute;left:236px;top:50px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="5" direction="down">💧</marquee>
 
   <marquee style="position:absolute;left:286px;top:20px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="7" direction="down">💧</marquee>
   
