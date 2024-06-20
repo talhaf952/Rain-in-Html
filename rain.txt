@@ -19,11 +19,11 @@
   
   <marquee style="position:absolute;left:158px;top:50px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="10" direction="down">💧</marquee>
   
-      <marquee style="position:absolute;left:208px;top:50px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="10" direction="down">💧</marquee>
+      <marquee style="position:absolute;left:208px;top:50px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="3" direction="down">💧</marquee>
 
   <marquee style="position:absolute;left:258px;top:50px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="10" direction="down">💧</marquee>
   
-  <marquee style="position:absolute;left:308px;top:50px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="10" direction="down">💧</marquee>
+  <marquee style="position:absolute;left:308px;top:50px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="3" direction="down">💧</marquee>
   
   <marquee style="position:absolute;left:358px;top:50px;font-size:15pt;color:#ffcc00;height:350px;" scrollamount="10" direction="down">💧</marquee>
   
